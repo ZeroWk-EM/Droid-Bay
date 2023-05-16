@@ -1,9 +1,15 @@
 import Card from "../Card/Card";
-import { useProduct } from "../../hooks/productHook";
-const List = ({ searchText }:any) => {
-  
+import { UrlParams, useProduct } from "../../hooks/productHook";
+
+const List = (props: UrlParams) => {
+  const { name, status, category } = props;
   let index = 0;
-  const product = useProduct({name:searchText})
+  const urlParams: UrlParams = {
+    name: name,
+    status: status,
+    category: category,
+  };
+  const product = useProduct(urlParams);
 
   return (
     <div>
