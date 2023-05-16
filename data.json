@@ -1,0 +1,247 @@
+[
+  {
+      "name": "R1-D0",
+      "category": "Protocol",
+      "image": "https://robohash.org/set_any/36.03508592438593?size=250x250",
+      "status": "New",
+      "price": 4907,
+      "shipping_price": 187,
+      "seller": "Felice Shillam"
+  },
+  {
+      "name": "Beta",
+      "category": "Protocol",
+      "image": "https://robohash.org/set_any/82.09718114094322?size=250x250",
+      "status": "Used",
+      "price": 716,
+      "auction": {
+          "minPrice": 3751,
+          "startAuct": "2022-09-03",
+          "endAuct": "2022-06-29"
+      },
+      "shipping_price": 493,
+      "seller": "Ximenez Trass"
+  },
+  {
+      "name": "I2-J6",
+      "category": "Pilot",
+      "image": "https://robohash.org/set_any/6.5111114992030705?size=250x250",
+      "status": "New",
+      "price": 1132,
+      "auction": {
+          "minPrice": 7974,
+          "startAuct": "2022-08-08",
+          "endAuct": "2022-12-15"
+      },
+      "shipping_price": 241,
+      "seller": "Stoddard Battleson"
+  },
+  {
+      "name": "Bott",
+      "category": "Scout",
+      "image": "https://robohash.org/set_any/89.18234290590685?size=250x250",
+      "status": "Used",
+      "price": 1845,
+      "auction": {
+          "minPrice": 6619,
+          "startAuct": "2022-12-04",
+          "endAuct": "2023-04-29"
+      },
+      "shipping_price": 274,
+      "seller": "Justus Championnet"
+  },
+  {
+      "name": "Bott",
+      "category": "Protocol",
+      "image": "https://robohash.org/set_any/68.37144325873477?size=250x250",
+      "status": "Used",
+      "price": 6457,
+      "shipping_price": 104,
+      "seller": "Bree Du Plantier"
+  },
+  {
+      "name": "U9-44",
+      "category": "Scout",
+      "image": "https://robohash.org/set_any/70.99400753939345?size=250x250",
+      "status": "New",
+      "price": 6493,
+      "shipping_price": 265,
+      "seller": "Becca Gillman"
+  },
+  {
+      "name": "RIC-8B",
+      "category": "Scout",
+      "image": "https://robohash.org/set_any/89.96772751715679?size=250x250",
+      "status": "New",
+      "price": 6990,
+      "auction": {
+          "minPrice": 8226,
+          "startAuct": "2023-02-17",
+          "endAuct": "2023-05-13"
+      },
+      "shipping_price": 70,
+      "seller": "Fayre Staining"
+  },
+  {
+      "name": "C-55",
+      "category": "Battle",
+      "image": "https://robohash.org/set_any/63.344954781865795?size=250x250",
+      "status": "Used",
+      "price": 5446,
+      "shipping_price": 240,
+      "seller": "Kimberly Kleisle"
+  },
+  {
+      "name": "Mecha",
+      "category": "Astromech",
+      "image": "https://robohash.org/set_any/59.410701526172495?size=250x250",
+      "status": "New",
+      "price": 9801,
+      "auction": {
+          "minPrice": 4469,
+          "startAuct": "2022-12-14",
+          "endAuct": "2022-11-10"
+      },
+      "shipping_price": 376,
+      "seller": "Basil Littler"
+  },
+  {
+      "name": "Scythe",
+      "category": "",
+      "image": "https://robohash.org/set_any/35.066966897963155?size=250x250",
+      "status": "Used",
+      "price": 5470,
+      "auction": {
+          "minPrice": 8610,
+          "startAuct": "2022-05-15",
+          "endAuct": "2023-03-23"
+      },
+      "shipping_price": 263,
+      "seller": "Rockwell Heathcoat"
+  },
+  {
+      "name": "T-J5",
+      "category": "Torture",
+      "image": "https://robohash.org/set_any/78.5126332740131?size=250x250",
+      "status": "Used",
+      "price": 3543,
+      "auction": {
+          "minPrice": 3927,
+          "startAuct": "2022-07-19",
+          "endAuct": "2023-03-27"
+      },
+      "shipping_price": 130,
+      "seller": "Selena Tethacot"
+  },
+  {
+      "name": "Nozzle",
+      "category": "Pilot",
+      "image": "https://robohash.org/set_any/33.98958175536673?size=250x250",
+      "status": "Used",
+      "price": 3069,
+      "auction": {
+          "minPrice": 9270,
+          "startAuct": "2022-09-04",
+          "endAuct": "2022-09-01"
+      },
+      "shipping_price": 358,
+      "seller": "Bearnard Kleinert"
+  },
+  {
+      "name": "U9-44",
+      "category": "Interrogation",
+      "image": "https://robohash.org/set_any/62.67314253133522?size=250x250",
+      "status": "Used",
+      "price": 8016,
+      "shipping_price": 179,
+      "seller": "Genvieve Halbert"
+  },
+  {
+      "name": "RIC-8B",
+      "category": "Battle",
+      "image": "https://robohash.org/set_any/96.68368105502934?size=250x250",
+      "status": "New",
+      "price": 4957,
+      "auction": {
+          "minPrice": 3222,
+          "startAuct": "2022-10-12",
+          "endAuct": "2022-12-05"
+      },
+      "shipping_price": 178,
+      "seller": "Armstrong Rottcher"
+  },
+  {
+      "name": "INS-0B",
+      "category": "Scout",
+      "image": "https://robohash.org/set_any/0.6199876962661666?size=250x250",
+      "status": "Used",
+      "price": 6588,
+      "auction": {
+          "minPrice": 5684,
+          "startAuct": "2022-08-04",
+          "endAuct": "2022-11-16"
+      },
+      "shipping_price": 13,
+      "seller": "Yorgos Goldby"
+  },
+  {
+      "name": "Scythe",
+      "category": "Torture",
+      "image": "https://robohash.org/set_any/46.54883748126694?size=250x250",
+      "status": "New",
+      "price": 3200,
+      "auction": {
+          "minPrice": 4733,
+          "startAuct": "2022-10-22",
+          "endAuct": "2023-04-19"
+      },
+      "shipping_price": 417,
+      "seller": "Chucho Shreve"
+  },
+  {
+      "name": "Bott",
+      "category": "",
+      "image": "https://robohash.org/set_any/51.2763972379922?size=250x250",
+      "status": "New",
+      "price": 8416,
+      "auction": {
+          "minPrice": 4680,
+          "startAuct": "2022-06-22",
+          "endAuct": "2022-11-01"
+      },
+      "shipping_price": 246,
+      "seller": "Boothe Dowtry"
+  },
+  {
+      "name": "Beta",
+      "category": "Interrogation",
+      "image": "https://robohash.org/set_any/42.26519578893557?size=250x250",
+      "status": "New",
+      "price": 4240,
+      "shipping_price": 59,
+      "seller": "Milzie Thunder"
+  },
+  {
+      "name": "Mecha",
+      "category": "Battle",
+      "image": "https://robohash.org/set_any/88.80363759248651?size=250x250",
+      "status": "Used",
+      "price": 4547,
+      "auction": {
+          "minPrice": 6077,
+          "startAuct": "2023-01-08",
+          "endAuct": "2022-05-28"
+      },
+      "shipping_price": 337,
+      "seller": "Bob Hixson"
+  },
+  {
+      "name": "R1-D0",
+      "category": "",
+      "image": "https://robohash.org/set_any/38.98886352168025?size=250x250",
+      "status": "New",
+      "price": 9295,
+      "shipping_price": 11,
+      "seller": "Jerrilyn Jahnig"
+  }
+]
