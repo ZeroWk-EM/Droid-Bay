@@ -4,8 +4,8 @@
   "description": "server-side application for Dbay front-end developed by React",
   "main": "app.js",
   "scripts": {
-    "start": "set DB=prod&& npm run build && node ./dist/app.js",
-    "dev": "set DB=dev&& npm run build && node ./dist/app.js",
+    "start": "export DB=prod&& npm run build && node ./dist/app.js",
+    "dev": "export DB=dev&& npm run build && node ./dist/app.js",
     "build": "tsc"
   },
   "keywords": [
