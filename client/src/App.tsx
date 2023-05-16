@@ -6,25 +6,34 @@ import Footer from "./components/Footer/Footer";
 import { useState } from "react";
 
 function App() {
+  const [searchText, setSearchText] = useState("");
+  const [status, setStatus] = useState<"New" | "Used">();
+  const [category, setCategory] = useState<
+    | "Interrogation"
+    | "Pilot"
+    | "Scout"
+    | "Astromech"
+    | "Battle"
+    | "Assassin"
+    | "Protocol"
+    | "Torture"
+  >();
 
-  const [searchText, setSearchText] = useState('');
-
-  const handleSearchTextChange = (text:any) => {
+  const handleSearchTextChange = (text: any) => {
     setSearchText(text);
   };
-
 
   return (
     <div className="App">
       <Navbar />
-      <Search onSearchTextChange={handleSearchTextChange}/>
+      <Search onSearchTextChange={handleSearchTextChange} />
       <div className="container mt-4">
         <div className="row">
           <div className="col-12 col-md-3">
-            <Filter />
+            <Filter setStatus={setStatus} setCategory={setCategory} />
           </div>
           <div className="col-12 col-md-9">
-            <List searchText={searchText}/>
+            <List name={searchText} status={status} category={category} />
           </div>
         </div>
       </div>
